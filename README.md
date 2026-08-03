@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tim 👋
 
-<!--
-**HengTing-Tim/HengTing-Tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Biomedical Engineering student at Columbia University.
 
-Here are some ideas to get you started:
+I'm interested in building AI systems for medical imaging, computer vision, and surgical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Medical Imaging AI
+- Computer Vision
+- Deep Learning
+- 3D Medical Image Analysis
+- Surgical Planning
+
+## Featured Projects
+
+🫁 **Lung Vessel Segmentation**
+Deep learning pipeline for pulmonary artery and vein segmentation from chest CT.
+
+🩺 **Kidney 3D Reconstruction**
+Patient-specific 3D reconstruction for partial nephrectomy planning.
+
+🧠 **TOF-MRA Segmentation**
+3D U-Net for cerebrovascular segmentation and morphology analysis.
+
+🧬 **MRS Signal Denoising**
+Single-transient MRS denoising using a 1D U-Net.
+
+## Connect
+
+- LinkedIn: linkedin.com/in/hengting-kuan
+- Email: kh3416@columbia.edu
