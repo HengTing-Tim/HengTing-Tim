@@ -14,16 +14,16 @@ I'm interested in building AI systems for medical imaging, computer vision, and 
 
 ## Featured Projects
 
-🫁 **Lung Vessel Segmentation**
+🫁 **Lung Vessel Segmentation**<br>
 Deep learning pipeline for pulmonary artery and vein segmentation from chest CT.
 
-🩺 **Kidney 3D Reconstruction**
+🩺 **Kidney 3D Reconstruction**<br>
 Patient-specific 3D reconstruction for partial nephrectomy planning.
 
-🫀 **Echocardiographic View Classification**
+🫀 **Echocardiographic View Classification**<br>
 Automated echocardiographic view classification and left ventricle segmentation.
 
-🧠 **TOF-MRA Segmentation**
+🧠 **TOF-MRA Segmentation**<br>
 3D U-Net for cerebrovascular segmentation and morphology analysis.
 
 ## Connect
