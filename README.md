@@ -21,7 +21,7 @@ Deep learning pipeline for pulmonary artery and vein segmentation from chest CT.
 Patient-specific 3D reconstruction for partial nephrectomy planning.
 
 🫀 **Echocardiographic View Classification**
-SVM-based automated echocardiographic view classification and left ventricle segmentation from ultrasound images.
+Automated echocardiographic view classification and left ventricle segmentation.
 
 🧠 **TOF-MRA Segmentation**
 3D U-Net for cerebrovascular segmentation and morphology analysis.
